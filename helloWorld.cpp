@@ -3,5 +3,5 @@ using namespace std;
 
 int main() // After the main compiler start compiling program.
 {
-	cout<<"Hello World"; // cout is function which display the output
+	cout<<"Hello World"; // cout is function which display the output of code
 }
